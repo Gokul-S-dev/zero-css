@@ -1,0 +1,22 @@
+{
+  "name": "@gokul-dev/zero-css",
+  "version": "0.0.2",
+  "description": "zero-css used for developer to reduce the writing of css",
+  "main": "dist/zero-css.css",
+  "style": "dist/zero-css.css",
+  "files": ["dist"],
+  "keywords": ["css","utility-css","frontend","css-frontend"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gokul-S-dev/zero-css.git"
+  },
+  "author": "gokul-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gokul-S-dev/zero-css/issues"
+  },
+  "homepage": "https://github.com/Gokul-S-dev/zero-css#readme"
+}
